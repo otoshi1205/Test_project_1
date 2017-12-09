@@ -3,8 +3,8 @@
 int main() 
 {
 
-printf("woloollo");
 
+printf("dupa");
 
 return 0;
 }
